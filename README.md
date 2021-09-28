@@ -1,5 +1,9 @@
 # ChatGraphql
 
+
+Demoo : 
+![gif](https://user-images.githubusercontent.com/49757658/125996507-a265c085-4e2c-4c12-84a6-f25a05cacef1.gif)
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
