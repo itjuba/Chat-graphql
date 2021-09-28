@@ -1,6 +1,6 @@
 # ChatGraphql
 
-Real time chat graphql implementation with absinth phoneix elixir and apollo reactjs library 
+Real time chat graphql implementation with absinth phoenix elixir server and apollo reactjs library 
 
 Demoo : 
 
