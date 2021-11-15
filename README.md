@@ -3,7 +3,8 @@
 Real time chat graphql implementation with absinth phoenix elixir server and apollo reactjs library 
 
 Demo : 
-<!-- ![gif](https://user-images.githubusercontent.com/49757658/135169595-9beec615-0869-44f1-ad57-1bda546ce3b9.gif) -->
+
+ ![gif](https://user-images.githubusercontent.com/49757658/135169595-9beec615-0869-44f1-ad57-1bda546ce3b9.gif) 
 
 To start your Phoenix server:
 
