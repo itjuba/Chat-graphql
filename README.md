@@ -2,7 +2,7 @@
 --
 Real time chat graphql implementation with absinth phoenix elixir server and apollo reactjs library 
 
-Frontend stolen from https://github.com/victoria-lo/devthoughts , with a litte change .
+Stolen Frontend from https://github.com/victoria-lo/devthoughts , with a litte change .
 
 Demo : 
 
