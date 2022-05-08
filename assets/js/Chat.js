@@ -47,7 +47,7 @@ const GET_MESSAGES = gql`
 
 const POST_MESSAGE = gql`
   mutation($user:String!, $text:String!){
-    send_message(user:$user,text:$text ,roomName:"fefe19<3"){
+    send_message(user:$user,text:$text ,roomName:"room"){
     text
     user}
   }
