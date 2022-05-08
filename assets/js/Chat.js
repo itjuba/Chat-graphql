@@ -38,7 +38,7 @@ export const client = new ApolloClient({
 
 const GET_MESSAGES = gql`
   subscription {
-    getMessages(room_name : "fefe19<3") {
+    getMessages(room_name : "room") {
       user
       text
     }
